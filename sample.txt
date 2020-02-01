@@ -1,3 +1,4 @@
 I like apple.
 He likes orange.
-We don't like grape.
+We don't like grape. They like stawberry.
+
